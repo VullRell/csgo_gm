@@ -9,7 +9,7 @@ If you want change settings, go to files : csgo_gm/gamemode/sh_config.lua
 
 👩🏽‍💻 Add commits :
 - Contact to do change !
-- 
+
     
 📱 Contact :
    - Telephone : 0695000000 (no I joke, crazy boy)
