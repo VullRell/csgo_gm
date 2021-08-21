@@ -1,3 +1,7 @@
+--[[
+    Don't touch !!!!!!!!!!
+]]
+
 "csgo_gm"
 {
 	"base"		    "sandbox"
