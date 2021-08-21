@@ -1,0 +1,15 @@
+"csgo_gm"
+{
+	"base"		    "sandbox"
+    "title"         "CSGO Gamemode"
+    "version"       "1.0.0"
+    "menusystem"	"1"
+
+    "author_name"   "VullRell"
+    "author_email"  ""
+    "author_url"    ""
+
+    "icon"  ""
+    "info"  ""
+    "hide"  "0"
+}
