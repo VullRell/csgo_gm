@@ -3,5 +3,13 @@ A gamemode which looking the game CS:GO
 
 If you want change settings, go to files : csgo_gm/gamemode/sh_config.lua
 
-𝐂𝐨𝐧𝐬𝐨𝐥𝐞 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 :
-To set the spawn of T and AT team input in your console (F10) :
+⌨️ Console Command (F10) :
+    - Adding Admin : Use "CSGO_GM_AddAdmin". The admin can just set spawn for T and AT.
+    - Adding Spawn : Use "CSGO_GM_AddSpawn". Add spawns to play !
+    
+👩🏽‍💻 Add commits :
+    - Contact to do change !
+    
+📱 Contact :
+   - Telephone : 0695000000 (no I joke, crazy boy)
+   - Discord : VullRell#1983
