@@ -13,4 +13,4 @@ If you want change settings, go to files : csgo_gm/gamemode/sh_config.lua
     
 📱 Contact :
 - Telephone : 0695000000 (no I joke, crazy boy)
-- Discord : VullRell#1983
+- Discord : VullRell#1983 (@vullrell)
